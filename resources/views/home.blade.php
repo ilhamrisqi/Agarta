@@ -3,7 +3,7 @@
 @section('container')
 <div class="bg-light mt-auto p-50 row d-flex justify-content-between  align-items-center">
 
-    <div class="col-12 col-md-6 d-flex justify-content-center">
+    <div class="col-12 col-md-6 d-flex justify-content-center`">
         <h1 class="text-center">weeqweqewe</h1>
     </div>
 
