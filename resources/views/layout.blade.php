@@ -9,33 +9,25 @@
     <title></title>
 </head>
 <body>
-<header id="dynamic" class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark navBlack">
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand gradient" href="#">Agarta</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-                aria-label="Toggle navigation">
+        <a class="navbar-brand  fw-bold p-5 " href="#">Agarta</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
-                <li class="nav-item">
-                    <a class="nav-link hoverNav" aria-current="page" href="/">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link scrollto hoverNav" href="#">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link hoverNav" href="/menu">Gallery</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link scrollto hoverNav" href="#">Contact</a>
-                </li>
-            </ul>
-
+        <div class="collapse navbar-collapse  justify-content-end p-5" id="navbarNavAltMarkup">
+            <div class="navbar-nav fw-light" style=" font-family: Helvetica; color: black ">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                <a class="nav-link" href="#">About Us</a>
+                <a class="nav-link" href="#">Gallery</a>
+                <a class="nav-link" href="#">Contact</a>
+            </div>
         </div>
     </div>
-</header>
+</nav>
 
 <div>
     @yield('container')
