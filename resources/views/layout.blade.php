@@ -14,16 +14,16 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand  fw-bold p-5 " href="#">Agarta</a>
+        <a class="navbar-brand  fw-bold p-5 " href="/">Agarta</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse  justify-content-end p-5" id="navbarNavAltMarkup">
             <div class="navbar-nav fw-light" style=" font-family: Helvetica; color: black ">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
-                <a class="nav-link" href="#">About Us</a>
+                <a class="nav-link active" aria-current="page" href="/">Home</a>
+                <a class="nav-link" href="/about">About Us</a>
                 <a class="nav-link" href="#">Gallery</a>
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="/contact">Contact</a>
             </div>
         </div>
     </div>

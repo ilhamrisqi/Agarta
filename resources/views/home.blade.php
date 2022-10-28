@@ -10,17 +10,17 @@
 
     <div id="carouselExampleInterval" class="carousel slide col-12 col-lg-6" data-bs-ride="carousel">
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active p-5 img-fluid">
+            <div class="carousel-inner p-5 img-fluid">
+                <div class="carousel-item active img-fluid">
                     <img src="image/MBZZ0541.JPEG" class="d-block w-100" alt="">
                 </div>
-                <div class="carousel-item p-5">
+                <div class="carousel-item ">
                     <img src="image/wed01.JPG" class="d-block w-100" alt="...">
                 </div>
-                <div class="carousel-item p-5">
+                <div class="carousel-item ">
                     <img src="image/IMG_1235.jpeg" class="d-block w-100" alt="...">
                 </div>
-                <div class="carousel-item p-5">
+                <div class="carousel-item ">
                     <img src="image/MBZZ4035.JPG" class="d-block w-100" alt="...">
                 </div>
             </div>
@@ -38,32 +38,58 @@
 
 
 
-    <div class=" mt-md-5 p-50 row d-flex row justify-content-center">
-        <div class="col-4  col-sm-4 justify-content-center text-center">
-            <a href="" class="link-dark fs-3 fw-light" style="text-decoration: none">Wedding</a>
+    <div class=" mt-5 p-50 row d-flex row justify-content-center">
+        <div class="col-4   justify-content-center text-center">
+            <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">Wedding</a>
         </div>
-        <div class="col-4  col-sm-4 justify-content-center text-center">
-            <a href="" class="link-dark fs-3 fw-light" style="text-decoration: none">Pre Wedding</a>
+        <div class="col-4   justify-content-center text-center">
+            <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">Pre Wedding</a>
         </div>
-        <div class="col-4  col-sm-4 justify-content-center text-center">
-            <a href="" class="link-dark fs-3 fw-light" style="text-decoration: none">Engagement</a>
+        <div class="col-4   justify-content-center text-center">
+            <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">Engagement</a>
         </div>
     </div>
 
-    <div class="mt-md-5 p-25 row d-flex p-5 ">
+    <div class=" justify-content-center row p-5">
 
 
-        <div class="col-12 col-lg-6 ">
-            <img src="image/prewed1BZZ3743.jpg" class="d-block w-75 " >
+            <img src="image/prewed1BZZ3743.jpg" class="col-12 col-lg-6 p-5 d-flex justify-content-center" style="width: 400px; height: 500px;" >
+
+        <div class="col-12 col-lg-5 mt-5 d-flex justify-content-center text-center">
+            <div>
+            <h1 class=" text-center p-5 fs-2"> Get in touch with us
+                <div class="row mt-3">
+                    <div class="col-12 mt-3">
+                        <button type="button" class="btn btn-secondary text-center btn-lg">Contact</button>
+                    </div>
+                </div>
+            </h1>
+            </div>
+
         </div>
 
-{{--        text button--}}
-        <div class="col-12 col-md-6 justify-content-center align-item-center " >
-            <h1 class=" text-center fs-3 fw-light"> “ Great photography is about Depth of feeling , not depth of field “</h1>
-            <button type="button" class="btn btn-secondary  justify-content-center align-item-center">Button</button>
+
+    </div>
+    <div class="row">
+        <div class="col-12 bg-light px-4 py-4">
+            <div class="row d-flex justify-content-center text-center">
+                <div class="col-3 ">
+                    <p><a href="" class="link-dark fw-bold" style="text-decoration: none">Why Us?</a></p>
+                </div>
+                <div class="col-3">
+                    <p><a href="" class="link-dark fw-bold" style="text-decoration: none">Services</a></p>
+                </div>
+                <div class="col-3 ">
+                    <p><a href="" class="link-dark fw-bold" style="text-decoration: none"  >Reach us</a></p>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-12 text-center mt-5">
+                    <p><a href="" class="link-dark fw-bold" style="text-decoration: none">&#169 2022 Agarta Photography. All rights reserved</a></p>
+                </div>
+            </div>
         </div>
-
-
     </div>
 
 
