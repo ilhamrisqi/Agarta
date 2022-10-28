@@ -38,14 +38,14 @@
 
 
 
-    <div class=" mt-5 p-50 row d-flex row justify-content-center">
-        <div class="col-4   justify-content-center text-center">
+    <div class=" mt-5 p-50 row d-flex row justify-content-center px-3">
+        <div class="col-3 justify-content-center text-center">
             <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">Wedding</a>
         </div>
-        <div class="col-4    justify-content-center text-center">
-            <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">Pre Wedding</a>
+        <div class="col-4 justify-content-center text-center">
+            <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">PreWedding</a>
         </div>
-        <div class="col-4   justify-content-center text-center">
+        <div class="col-4  justify-content-center text-center">
             <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">Engagement</a>
         </div>
     </div>

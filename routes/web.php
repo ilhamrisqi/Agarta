@@ -45,3 +45,9 @@ Route::get('/contact', function () {
 
         ]);
 });
+
+Route::get('/gallery', function () {
+    return view('gallery'
+        );
+});
+
