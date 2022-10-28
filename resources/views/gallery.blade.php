@@ -5,7 +5,7 @@
         <div class="row row-cols-lg-3 p-5  ">
 
         {{--           photo1 --}}
-                    <div class="col-lg-4 p-3">
+                    <div class="col-lg-4  col-md-6 p-lg-3">
                         <div class="card mx-auto " style="width: 15rem;">
                             <img src="/image/wed011.JPG" class="card-img-top " alt="...">
                             <h5 class="text-center m-3">Wedding by Agarta</h5>
@@ -15,7 +15,7 @@
 
 
         {{--            photo2--}}
-                    <div class=" col-lg-4 p-3">
+                    <div class=" col-lg-4 col-md-6  p-3">
                         <div class="card mx-auto " style="width: 15rem;">
                             <img src="/image/wed011.JPG" class="card-img-top" alt="...">
                             <h5 class="text-center m-3">Wedding by Agarta</h5>
@@ -24,7 +24,7 @@
 
 
         {{--            photo3--}}
-                    <div class="col-lg-4 p-3 ">
+                    <div class="col-lg-4  col-md-6 p-3  ">
                         <div class="card mx-auto " style="width: 15rem;">
                             <img src="/image/wed011.JPG" class="card-img-top" alt="...">
                             <h5 class="text-center m-3">Wedding by Agarta</h5>
@@ -32,7 +32,7 @@
                     </div>
 
         {{--           photo4 --}}
-                    <div class="col-lg-4 p-3">
+                    <div class="col-lg-4  col-md-6 p-3">
                         <div class="card mx-auto " style="width: 15rem;">
                             <img src="/image/wed011.JPG" class="card-img-top" alt="...">
                             <h5 class="text-center m-3">Wedding by Agarta</h5>
@@ -40,7 +40,7 @@
                     </div>
 
         {{--            photo5--}}
-                    <div class=" col-lg-4 p-3">
+                    <div class=" col-lg-4 col-md-6 p-3">
                         <div class="card mx-auto " style="width: 15rem;">
                             <img src="/image/wed011.JPG" class="card-img-top" alt="...">
                             <h5 class="text-center m-3">Wedding by Agarta</h5>
@@ -49,7 +49,7 @@
 
 
         {{--            photo6--}}
-                    <div class=" col-lg-4 p-3">
+                    <div class=" col-lg-4 col-md-6 p-3">
                         <div class="card mx-auto " style="width: 15rem;">
                             <img src="/image/wed011.JPG" class="card-img-top" alt="...">
                             <h5 class="text-center m-3">Wedding by Agarta</h5>
