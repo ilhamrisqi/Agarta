@@ -52,45 +52,21 @@
 
     <div class=" justify-content-center row p-5">
 
+        <img src="image/prewed1BZZ3743.jpg" class="col-12 col-lg-6 p-5 d-flex justify-content-center img-fluid" style="width: 400px; height: 500px;" >
 
-            <img src="image/prewed1BZZ3743.jpg" class="col-12 col-lg-6 p-5 d-flex justify-content-center" style="width: 400px; height: 500px;" >
-
-        <div class="col-12 col-lg-5 mt-5 d-flex justify-content-center text-center">
-            <div>
-            <h1 class=" text-center p-5 fs-2"> Get in touch with us
-                <div class="row mt-3">
-                    <div class="col-12 mt-3">
-                        <button type="button" class="btn btn-secondary text-center btn-lg">Contact</button>
-                    </div>
+            <div class="col-12 col-lg-5 mt-5 d-flex justify-content-center text-center">
+                <div>
+                    <h1 class=" text-center p-5 fs-2"> Get in touch with us
+                        <div class="row mt-3">
+                            <div class="col-12 mt-3">
+                                <button type="button" class="btn btn-secondary text-center btn-lg">Contact</button>
+                            </div>
+                        </div>
+                    </h1>
                 </div>
-            </h1>
             </div>
-
-        </div>
-
-
     </div>
-    <div class="row">
-        <div class="col-12 bg-light px-4 py-4">
-            <div class="row d-flex justify-content-center text-center">
-                <div class="col-3 ">
-                    <p><a href="" class="link-dark fw-bold" style="text-decoration: none">Why Us?</a></p>
-                </div>
-                <div class="col-3">
-                    <p><a href="" class="link-dark fw-bold" style="text-decoration: none">Services</a></p>
-                </div>
-                <div class="col-3 ">
-                    <p><a href="" class="link-dark fw-bold" style="text-decoration: none"  >Reach us</a></p>
-                </div>
 
-            </div>
-            <div class="row">
-                <div class="col-12 text-center mt-5">
-                    <p><a href="" class="link-dark fw-bold" style="text-decoration: none">&#169 2022 Agarta Photography. All rights reserved</a></p>
-                </div>
-            </div>
-        </div>
-    </div>
 
 
 
