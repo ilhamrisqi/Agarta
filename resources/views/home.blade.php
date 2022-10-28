@@ -42,7 +42,7 @@
         <div class="col-4   justify-content-center text-center">
             <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">Wedding</a>
         </div>
-        <div class="col-4   justify-content-center text-center">
+        <div class="col-4    justify-content-center text-center">
             <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">Pre Wedding</a>
         </div>
         <div class="col-4   justify-content-center text-center">
