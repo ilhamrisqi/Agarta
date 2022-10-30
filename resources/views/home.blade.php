@@ -52,7 +52,7 @@
 
     <div class=" justify-content-center row p-5">
 
-        <img src="image/prewed1BZZ3743.jpg" class="col-12 col-lg-6 p-5 d-flex justify-content-center img-fluid" style="width: 400px; height: 500px;" >
+        <img src="image/prewed1BZZ3743.jpg" class="col-12 col-lg-6 p-5 d-flex justify-content-center img-fluid" style="width: 400px; height: 550px;" >
 
             <div class="col-12 col-lg-5 mt-5 d-flex justify-content-center text-center">
                 <div>
