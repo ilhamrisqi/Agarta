@@ -4,7 +4,7 @@
 <div class="bg-light mt-auto p-50  row d-flex justify-content-between  align-items-center">
 
     <div class="col-12 col-lg-6 p-5 d-flex justify-content-center text-center">
-        <h1 class=" text-center fs-4 p-5"> “ Great photography is about Depth of feeling , not depth of field “</h1>
+        <h1 class=" text-center fs-4 p-5"> “ {{$maincontnt}} “</h1>
     </div>
 
 
@@ -52,20 +52,21 @@
 
     <div class=" justify-content-center row p-5">
 
-        <img src="image/prewed1BZZ3743.jpg" class="col-12 col-lg-6 p-5 d-flex justify-content-center img-fluid" style="width: 400px; height: 550px;" >
+        <img src="{{$subimg}}" class="col-12 col-lg-6 p-5 d-flex justify-content-center img-fluid" style="width: 400px; height: 550px;" >
 
             <div class="col-12 col-lg-5 mt-5 d-flex justify-content-center text-center">
                 <div>
-                    <h1 class=" text-center p-5 fs-2"> Get in touch with us
+                    <h1 class=" text-center p-5 fs-2"> {{$subcontnt}}
                         <div class="row mt-3">
                             <div class="col-12 mt-3">
-                                <button type="button" class="btn btn-secondary text-center btn-lg">Contact</button>
+                                <button type="button" class="btn btn-secondary text-center btn-lg">{{$contactbtn}}</button>
                             </div>
                         </div>
                     </h1>
                 </div>
             </div>
     </div>
+
 
 
 
