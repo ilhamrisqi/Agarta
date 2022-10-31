@@ -26,17 +26,17 @@ class tampilan extends Model
             [
                 'id'=> 3,
                 'subtext' => 'Enggagement by Agarta',
-                'image'=> '3.jpg'
+                'image'=> '7.jpg'
             ],
             [
                 'id'=> 4,
                 'subtext' => 'Prewedding by Agarta',
-                'image'=> '8.jpg'
+                'image'=> '11.jpg'
             ],
             [
                 'id'=> 5,
                 'subtext' => 'Wedding by Agarta',
-                'image'=> '4.jpg'
+                'image'=> '8.jpg'
             ],
             [
                 'id'=> 6,
