@@ -1,14 +1,14 @@
 
 @extends('layout')
 @section('container')
-<div class="bg-light mt-auto p-50  row d-flex justify-content-between  align-items-center">
+<div class="bg-light mt-auto p-50  row d-flex justify-content-between  align-items-center" >
 
-    <div class="col-12 col-lg-6 p-5 d-flex justify-content-center text-center">
+    <div class="col-12 col-lg-6 p-5 d-flex justify-content-center text-center" data-aos="zoom-in" data-aos-duration="2000">
         <h1 class=" text-center fs-4 p-5"> “ {{$maincontnt}} “</h1>
     </div>
 
 
-    <div id="carouselExampleInterval" class="carousel slide col-12 col-lg-6" data-bs-ride="carousel">
+    <div id="carouselExampleInterval" class="carousel slide col-12 col-lg-6" data-bs-ride="carousel" data-aos="zoom-in" data-aos-duration="2000">
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner p-5 img-fluid">
                 <div class="carousel-item active img-fluid">
@@ -38,28 +38,28 @@
 
 
 
-    <div class=" mt-5 p-50 row d-flex row justify-content-center px-3">
-        <div class="col-3 justify-content-center text-center">
+    <div class=" mt-5 p-50 row d-flex row justify-content-center px-3" >
+        <div class="col-3 justify-content-center text-center" data-aos="zoom-in" data-aos-duration="2000">
             <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">Wedding</a>
         </div>
-        <div class="col-4 justify-content-center text-center">
+        <div class="col-4 justify-content-center text-center" data-aos="zoom-in" data-aos-duration="2000">
             <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">PreWedding</a>
         </div>
-        <div class="col-4  justify-content-center text-center">
+        <div class="col-4  justify-content-center text-center" data-aos="zoom-in" data-aos-duration="2000">
             <a href="" class="link-dark fs-4 fw-light" style="text-decoration: none">Engagement</a>
         </div>
     </div>
 
     <div class=" justify-content-center row p-5">
 
-        <img src="{{$subimg}}" class="col-12 col-lg-6 p-5 d-flex justify-content-center img-fluid" style="width: 400px; height: 550px;" >
+        <img data-aos="zoom-in" data-aos-duration="2000" src="{{$subimg}}" class="col-12 col-lg-6 p-5 d-flex justify-content-center img-fluid" style="width: 400px; height: 550px;" >
 
-            <div class="col-12 col-lg-5 mt-5 d-flex justify-content-center text-center">
+            <div class="col-12 col-lg-5 mt-5 d-flex justify-content-center text-center" data-aos="zoom-in" data-aos-duration="2000">
                 <div>
                     <h1 class=" text-center p-5 fs-2"> {{$subcontnt}}
                         <div class="row mt-3">
-                            <div class="col-12 mt-3">
-                                <button type="button" class="btn btn-secondary text-center btn-lg">{{$contactbtn}}</button>
+                            <div class="col-12 mt-3" >
+                                <button type="button" class="btn btn-dark text-center btn-lg"><a href="https://api.whatsapp.com/send/?phone=6289509246788&text=Halo%2C+saya+tertarik+dengan+produk+ini!" class="link-light" style="text-decoration: none">{{$contactbtn}}</a></button>
                             </div>
                         </div>
                     </h1>
