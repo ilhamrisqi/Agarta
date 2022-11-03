@@ -23,8 +23,8 @@
         <div class="collapse navbar-collapse  justify-content-end p-5" id="navbarNavAltMarkup">
             <div class="navbar-nav fw-light" style=" font-family: Helvetica; color: black ">
                 <a class="nav-link active" aria-current="page" href="/">Home</a>
-                <a class="nav-link" href="/about">About Us</a>
                 <a class="nav-link" href="/gallery">Gallery</a>
+                <a class="nav-link" href="/about">About Us</a>
                 <a class="nav-link" href="/contact">Contact</a>
             </div>
         </div>
