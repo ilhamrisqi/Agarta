@@ -49,7 +49,7 @@ class TampilansController extends Controller
     public function subgallery($id){
         return view('subgallery',
             [
-                'title' => 'Gallery',
+                'title' => ' Our Gallery',
                 'tampilan' => tampilan::showGallery($id)
             ]
         );
@@ -58,8 +58,9 @@ class TampilansController extends Controller
     public function contact(){
         return view('contact',
             [
-                'contactdesc'=> 'We’re very approachable and would love to speak to you
-                             .feel free to ask, call, chat, & send us an email.'
+                'contactdesc'=> 'We’re very approachable and would love to speak to you.
+                feel free to ask, call, chat, & send us an email.',
+                'send'=>'Send'
 
             ]);
     }
