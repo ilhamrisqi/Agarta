@@ -12,8 +12,8 @@
 
                 <div class="card mb-3" style="border: 0 solid transparent">
                     <div class="row g-0">
-                        <div class="col-md-3 p-3"  data-aos="zoom-in">
-                            <img src="/image/{{$tes['image']}}" class="img-fluid rounded-start" alt="...">
+                        <div class="col-md-3 p-3 "  data-aos="zoom-in">
+                            <img src="/image/{{$tes['image']}}" class="img-fluid rounded-start " alt="...">
                             <a href="/subgallery/{{$tes['id']}}"></a>
                         </div>
                         <div class="col-md-8 d-flex" style="align-items: center; justify-content: center" data-aos="zoom-in" >

@@ -59,7 +59,7 @@
                     <h1 class=" text-center p-5 fs-2"> {{$subcontnt}}
                         <div class="row mt-3">
                             <div class="col-12 mt-3" >
-                                <button type="button" class="btn btn-dark text-center btn-lg"><a href="https://api.whatsapp.com/send/?phone=6289509246788&text=Halo%2C+saya+tertarik+dengan+produk+ini!" class="link-light" style="text-decoration: none">{{$contactbtn}}</a></button>
+                                <button type="button" class="btn btn-dark text-center btn-lg"><a href="/contact" class="link-light" style="text-decoration: none">{{$contactbtn}}</a></button>
                             </div>
                         </div>
                     </h1>
